@@ -1,4 +1,5 @@
 1. Set up your own account on AWS IoT
 2. Download certificates
 3. Add them to root dir where jar will be executed
-4. Run with java -jar java -jar IoTDemo-1.0-SNAPSHOT.jar <tier1 ip> <tier 1 port> 
+4. Update properties file with cert names
+5. Run with java -jar java -jar IoTDemo-1.0-SNAPSHOT.jar <tier1 ip> <tier 1 port> 
